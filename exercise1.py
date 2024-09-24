@@ -33,7 +33,7 @@ def calculate_area(length, width):
     area = length * width
     return area
 
-calculation = calculate_area(10, 5)
+calculation = calculate_area(50, 100)
 print(f"The area of the rectangle is: {calculation}")
 
 
@@ -42,4 +42,4 @@ def checker (number):
         print(f"The number {number} is even")
     else:
         print("The number is odd")
-checker(20)
+checker(77)

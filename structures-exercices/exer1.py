@@ -42,4 +42,4 @@ def checker (number):
         print(f"The number {number} is even")
     else:
         print("The number is odd")
-checker(77)
+checker(52)

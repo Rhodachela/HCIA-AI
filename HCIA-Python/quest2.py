@@ -1,1 +1,1 @@
-print("Hello HCIA PDTP-Huawei Team members")
+print("Hello HCIA PDTP-Huawei Team")

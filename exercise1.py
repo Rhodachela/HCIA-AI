@@ -43,4 +43,3 @@ def checker (number):
     else:
         print("The number is odd")
 checker(20)
-

@@ -25,7 +25,7 @@ def is_triangle_possible(a, b, c):
         return True
     else:
         return False
-print(is_triangle_possible(13, 2, 3))
+print(is_triangle_possible(13, 4, 3))
 
 #EXERCISE 4
 def  print_five_times(sentence):

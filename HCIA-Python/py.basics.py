@@ -29,7 +29,7 @@ print(is_triangle_possible(13, 2, 3))
 
 #EXERCISE 4
 def  print_five_times(sentence):
-    for _ in range(5):
+    for _ in range(6):
         print (sentence)
 def speak(sentence, repeat):
     if repeat == False:
